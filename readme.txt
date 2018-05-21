@@ -4,4 +4,4 @@ git is a a version control system.
 
 git has a mutable index area called stage.
 
-git tracks changes of files.
+git tracks changes of files in a special way.
